@@ -1,28 +1,9 @@
 ---
-permalink: /
-title: "About me"
-#excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /about/
+title: "About"
+author_profile: false
 ---
 
+Hey, I'm Shuai. This little corner of the internet is where I jot down what I'm building, reading, and thinking about. Topics change with whatever I'm curious about that week—sometimes it's a coding project, other times it's a paper or a new tool I'm trying out.
 
-I am undergraduate student studying computer science at University of Edinburgh.
-
-I have a broad interest in building efficient systems for training and serving deep learning models, with a primary focus on large language models (LLMs).
-
-I am also an enthusiastic self-learner and interested in various fields of computer science.
-
-**Interests**
-
-- Large Language Models
-- Machine Learning Systems  
-- Distributed Systems
-
-**Education**
-
-- B.S. in Computer Science, 2017 - 2022
-
-University of Edinburgh
+If you want to say hi or swap notes, reach me at shishuaicareer@gmail.com or find me on [GitHub](https://github.com/shuaills).
